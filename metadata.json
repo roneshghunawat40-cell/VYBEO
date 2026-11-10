@@ -1,0 +1,6 @@
+{
+  "name": "VYBEO - Next-Gen Video & Live Streaming Social Platform",
+  "description": "Next-generation video-sharing and live-streaming social platform featuring adaptive playback, vertical shorts, WebRTC live broadcasts, real-time super chat tipping, and creator studio analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
